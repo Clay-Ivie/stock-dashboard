@@ -41,8 +41,7 @@ This project requires an Alpha Vantage API key.
 3. Add the following line:
 ALPHA_VANTAGE_API_KEY=your_api_key_here
 
-4. ALPHA_VANTAGE_API_KEY=your_api_key_here
-
+## Running the Project
 ```bash
 npm install
 npm run dev
