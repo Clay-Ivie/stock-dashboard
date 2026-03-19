@@ -30,7 +30,18 @@ To handle this, the application includes:
 
 During development, not all stocks could be tested continuously due to these limits, but the application is designed to handle real-world API constraints reliably.
 
-## Running the Project
+## Environment Variables
+
+This project requires an Alpha Vantage API key.
+
+1. Go to https://www.alphavantage.co/support/#api-key to get a free API key
+
+2. Create a `.env.local` file in the root of the project:
+
+3. Add the following line:
+ALPHA_VANTAGE_API_KEY=your_api_key_here
+
+4. ALPHA_VANTAGE_API_KEY=your_api_key_here
 
 ```bash
 npm install
