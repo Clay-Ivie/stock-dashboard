@@ -5,7 +5,7 @@ This is a stock dashboard built with Next.js and the Alpha Vantage API.
 Users can view company information and historical stock prices.
 
 ## Features
-- Displays 25 stock tickers
+- Displays 30 stock tickers
 - Company overview (name, sector, market cap, etc.)
 - Historical price data with percentage change
 - Line chart visualization of recent prices
